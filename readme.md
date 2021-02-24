@@ -4,7 +4,7 @@ Discord Bot Base is a base for creating discord bots in Java with Discord4J API
 ## How to use Discord Bot Base
 ### Step 1: Configure the bot
 1. Download and import the project on your IDE
-2. Create a new bot on [Discord Developer Page](https://discord.com/developers/applications/). 
+2. Create a new bot on [Discord Developer Portal](https://discord.com/developers/applications/). 
 3. Go to the Main.java class and modify the name of the bot, the prefix, the token, the owner id
 4. Now you can run the bot
 
